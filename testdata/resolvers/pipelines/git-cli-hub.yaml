@@ -12,7 +12,7 @@ spec:
         resolver: hub
         params:
           - name: type
-            value: tekton
+            value: artifact
           - name: kind
             value: task
           - name: name
@@ -34,7 +34,7 @@ spec:
         resolver: hub
         params: 
           - name: type
-            value: tekton
+            value: artifact
           - name: kind
             value: task
           - name: name  
